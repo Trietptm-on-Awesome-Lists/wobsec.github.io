@@ -13,11 +13,17 @@ The basics and necessity of planning your threat models is to be clear about the
 ### RECOMMENDED READING THESE REFERENCES!
 
 https://ssd.eff.org/en/module/assessing-your-risks
+
 https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8
+
 https://medium.com/@thegrugq/stop-fabricating-travel-security-advice-35259bf0e869
+
 https://www.youtube.com/watch?v=b9n3p3dNw6Q
+
 https://freedom.press/training/mobile-security-for-activists-and-journalists/
+
 https://freedom.press/training/preventative-mobile-security-tips-activists/
+
 https://freedom.press/training/rapid-responses-compromised-phones/
 
 ## [BACK TO HOME PAGE](index.md)

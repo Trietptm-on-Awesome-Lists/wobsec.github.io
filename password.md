@@ -30,7 +30,9 @@ To run diceware with 5 words: `diceware -n 5`
 
 To generate 5 words with 5 special characters: `diceware -n 5 -s 5`
 
-diceware can be paired with using a real dice to generate words. `diceware -r realdice --dice-sides 6`
+diceware can be paired with using a real dice to generate words. 
+
+`diceware -r realdice --dice-sides 6`
 
 To make it easier to memorize, you could even come up with a humorous memory aid. The sillier and more unusual it is, the more likely it is that you will remember it. [See also: XKCD: Password Strength]: https://www.xkcd.com/936/
 

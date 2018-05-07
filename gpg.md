@@ -6,6 +6,18 @@ PGP is the forward-secrecy encryption for message and file. Developed by Phil Zi
 
 GPG is available on all major Linux distribution and their core package repository. To install on Debian/Ubuntu/Mint and similar Debian-based distros: `sudo apt install -y -f gnupg`. To install in Fedora/Red Hat: `sudo yum install gnupg`. [Windows](https://gpg4win.org/download.html) and [MacOS](https://sourceforge.net/p/gpgosx/docu/Download/)
 
+On MacOS you can install [Homebrew](https://brew.sh) package manager:
+
+Open your Terminal and paste this:
+
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    
+ Then install GPG with Brew:
+ 
+     brew install gnupg
+
+## 2.  USAGE
+
 To generate key we are going to use the flag `--full-gen-key` or complete command `gpg --full-gen-key`
 
 It will prompt you:
@@ -154,7 +166,7 @@ This will be your public key
 
 ### IT IS IMPORTANT TO PAIR YOUR PUBLIC KEY WITH YOUR FINGERPRINT WHEN YOU SHARE THEM.
 
-***USEFUL COMMANDS***
+## 3.  USEFUL COMMANDS
 
 To change passphrase:
 
@@ -187,7 +199,7 @@ To delete keys on secret key-ring **WARNING IRREVERSE IT IF DELETED**
 
 ALWAYS VERIFY FINGERPRINT!!!
 
-## 2.  ENCRYPT, SIGN & DECRYPT
+## 4.  ENCRYPT, SIGN & DECRYPT
 
 To list all signatures in keyring
 
@@ -219,7 +231,7 @@ To decrypt message
 
     gpg -d file.asc
 
-**ALWAYS VERIFY SIGNATURE!!!**
+**REMEMBER! - ALWAYS VERIFY EACH OTHER'S SIGNATURES !!!**
 
 To encrypt file using symmetrical crypto:
 

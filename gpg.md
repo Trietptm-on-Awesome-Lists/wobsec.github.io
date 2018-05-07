@@ -221,7 +221,11 @@ To check and list signature from specific key
 
 To encrypt your message:
 
-    cat file.txt|gpg -e -a --recipient bdf@you.com --sign -u abc@me.com
+    cat file.txt | gpg -e -a --recipient bdf@you.com --sign -u abc@me.com
+
+To encrypt your message on Windows
+
+    type file.txt | gpg -e -a --recipient bdf@you.com --sign -u abc@me.com
 
 To encrypt file:
 

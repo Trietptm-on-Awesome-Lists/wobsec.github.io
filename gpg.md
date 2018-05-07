@@ -40,8 +40,8 @@ You are recommended to set your key to certain expire time. 2 to 3 years are the
 
 Then:
 
-Key expires at Thu 14 Dec 2017 01:01:01 AM EST
-Is this correct? (y/N)
+    Key expires at Thu 14 Dec 2017 01:01:01 AM EST
+    Is this correct? (y/N)
 
 Type `y` and press Enter
 

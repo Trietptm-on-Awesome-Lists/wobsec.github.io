@@ -5,7 +5,12 @@
 1. **[Threat Models](threat-models.md)**
 2. **[Metadata](metadata.md)**
 3. **[Pretty Good Privacy / GNU Privacy Guard](gpg.md)**
+4. **[Password / Passcode / Passphrase](password.md)**
 4. _TBA_
+
+Other past guides (specific, might be relevant if you need help)
+
+1. **[Matrix](https://matrixguide.github.io)**
 
 ### REFERENCES
 

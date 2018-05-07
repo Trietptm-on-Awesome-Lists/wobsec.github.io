@@ -6,13 +6,12 @@
 2. **[Metadata](metadata.md)**
 3. **[Pretty Good Privacy / GNU Privacy Guard](gpg.md)**
 4. **[Password / Passcode / Passphrase](password.md)**
-4. _TBA_
+5. **[Contextual Identity](identity.md)**
+6. **[Matrix](https://matrixguide.github.io)**
+7. **[Recommended Reading](reread.md)**
+8. _TBA_
 
-Other past guides (specific, might be relevant if you need help)
-
-1. **[Matrix](https://matrixguide.github.io)**
-
-### REFERENCES
+### NOTES
 
 Most of these guides are collage of stuff written by me for old projects from OWS, FNF, Telecomix, SRA, Redneck Revolt and recently the GDC. These guides have been up-to-date based on latest software and system. This is a one-person project so far, helps would be most welcome! :)
 

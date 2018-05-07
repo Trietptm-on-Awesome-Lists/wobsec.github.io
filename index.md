@@ -14,7 +14,7 @@ Other past guides (specific, might be relevant if you need help)
 
 ### REFERENCES
 
-Most of these guides are collage of stuff written by me for old projects from OWS, FNF, Telecomix, SRA, Redneck Revolt and recently the GDC. These guides have been up-to-date based on lastest software and system. This is a one-person project so far, helps would be most welcome! :)
+Most of these guides are collage of stuff written by me for old projects from OWS, FNF, Telecomix, SRA, Redneck Revolt and recently the GDC. These guides have been up-to-date based on latest software and system. This is a one-person project so far, helps would be most welcome! :)
 
 This guides will be updated and corrected often.
 

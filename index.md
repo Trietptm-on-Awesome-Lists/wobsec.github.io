@@ -1,10 +1,10 @@
 # Security & Privacy Guides for the Workers and Wobs!
 
-### Please [contact](mailto:torontowob@protonmail.ch) or to my email on TorontoGMB mailing list: when you have suggestion, correction or inquiry. You can directly commit your changes to the repository, and they will be merged directly here.
+### Please [contact](mailto:torontowob@protonmail.ch) or to my main email on TorontoGMB mailing list: when you have suggestion, correction or inquiry. You can directly commit your changes to the repository, and they will be merged directly here.
 
-1. **[Threat Models](#threat-models)**
-2. **[Metadata](#metadata)**
-3. **[Pretty Good Privacy / GNU Privacy Guard](#gpg)**
+1. **[Threat Models](threat-models.md)**
+2. **[Metadata](metadata.md)**
+3. **[Pretty Good Privacy / GNU Privacy Guard](gpg.md)**
 4. _TBA_
 
 ### REFERENCES

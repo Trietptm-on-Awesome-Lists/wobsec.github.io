@@ -61,3 +61,5 @@ For example:
 You could turn “The Revolution Will Not Be Televised” into “trwNbt” and then add a few random characters for “trwNbt!42”.
 
 ### DISCLAIMER: The intro section here are not from mine, originally from /r/Cyberzine Wiki that I contributed to, later merged with Socialist Rifle Association (SRA). THIS PAGE WILL BE REVISED WHEN I HAVE MORE TIME.
+
+## [BACK TO HOME PAGE](index.md)

@@ -2,6 +2,8 @@
 
 PGP is the forward-secrecy encryption for message and file. Developed by Phil Zimmerman in 1991 from his activist root in hope for secure communication by-design. PGP is by far the most secure method of communication and has no known crypto attack against its cryptographic design. PGP was open-sourced to OpenPGP implementation, with GNU Foundation developed free software version GNU Privacy Guard, GnuPG or simply referred to as gpg. GnuPG will be the software this guide mainly focuses, along with Thunderbird extension Enigmail.
 
+[CHECK OUT THE KEYBASE GUIDE (ALTERNATIVE TO GPG) IF YOU HAVE TROUBLES WITH THIS](keybase.md)
+
 ## 1.  SETUP
 
 GPG is available on all major Linux distribution and their core package repository. To install on Debian/Ubuntu/Mint and similar Debian-based distros: `sudo apt install -y -f gnupg`. To install in Fedora/Red Hat: `sudo yum install gnupg`. [Windows](https://gpg4win.org/download.html) and [MacOS](https://sourceforge.net/p/gpgosx/docu/Download/)

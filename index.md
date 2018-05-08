@@ -26,7 +26,7 @@ You can clone or download the project with git:
     
 ### Power to the Union! IN SOLIDARITY
 
-To contact with secret matter:
+To contact with secret matter via my [Keybase](https://keybase.io/wobsec) or via:
 
     ID: 3E183AC4E62BBA4C
     7B6B E0C1 5C11 BE58 9F7A FCE2 3E18 3AC4 E62B BA4C

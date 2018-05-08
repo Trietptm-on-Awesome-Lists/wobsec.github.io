@@ -5,11 +5,12 @@
 1. **[Threat Models](threat-models.md)**
 2. **[Metadata](metadata.md)**
 3. **[Pretty Good Privacy / GNU Privacy Guard](gpg.md)**
-4. **[Password / Passcode / Passphrase](password.md)**
-5. **[Contextual Identity](identity.md)**
-6. **[Matrix](https://matrixguide.github.io)**
-7. **[Recommended Reading](reread.md)**
-8. _TBA_
+4. **[PGP with Keybase](keybase.md)**
+5. **[Password / Passcode / Passphrase](password.md)**
+6. **[Contextual Identity](identity.md)**
+7. **[Matrix](https://matrixguide.github.io)**
+8. **[Recommended Reading](reread.md)**
+9. _TBA_
 
 ### NOTES
 
@@ -23,4 +24,4 @@ You can clone or download the project with git:
 
     git clone https://github.com/wobsec/wobsec.github.io
     
-# Power to the Union! IN SOLIDARITY
+### Power to the Union! IN SOLIDARITY

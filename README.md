@@ -77,5 +77,5 @@ To contact with secret matter:
     kVFL+0biBJwnf2R+zD9stHNS2R64b1wd96x3LDg6QtKuZLGHrom3F1J8yCFOkDFQ
     ZQ9HTca6E37CqwoDKCCKJ7H9XGSj59K+7c5VuP7Q1vwIM7BR3ppvloh87D51ljE=
     =Uc0x
-    -----END PGP PUBLIC KEY BLOCK-----`
+    -----END PGP PUBLIC KEY BLOCK-----
 

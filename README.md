@@ -15,6 +15,8 @@ To contact with secret matter:
     ID: 3E183AC4E62BBA4C
     7B6B E0C1 5C11 BE58 9F7A FCE2 3E18 3AC4 E62B BA4C
 
+Public key:
+
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     
     xsFNBFrw20cBEADkZtnYEqVDw3H4/+k3Cd7eCWeNj58jAntWyFojmJX6hUUPUWOu
